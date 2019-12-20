@@ -95,3 +95,15 @@ input:focus {
   align-items: center;
   justify-content: center;
 }
+
+.button-fundrise-orange {
+  background-image: linear-gradient(to right,#f58c28,#ec4836);
+  background-position: -1px 0;
+  background-size: 105%;
+}
+
+
+.button.button-fundrise-orange:hover {
+  background-color: #ff6a00;
+  background-image: none;
+}
